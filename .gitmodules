@@ -1,0 +1,12 @@
+[submodule "src/r4f_realsense"]
+	path = src/r4f_realsense
+	url = https://github.com/G-S-Rodrigues/robotics4farmers_realsense.git
+[submodule "src/r4f_slam"]
+	path = src/r4f_slam
+	url = https://github.com/G-S-Rodrigues/robotics4farmers_slam.git
+[submodule "src/r4f_yolo"]
+	path = src/r4f_yolo
+	url = https://github.com/G-S-Rodrigues/robotics4farmers_yolo.git
+[submodule "src/r4f_gnss"]
+	path = src/r4f_gnss
+	url = https://github.com/G-S-Rodrigues/robotics4farmers_gnss.git
