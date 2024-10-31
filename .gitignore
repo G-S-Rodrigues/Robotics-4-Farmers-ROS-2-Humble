@@ -5,6 +5,5 @@ install/
 log/
 map_saves/
 
-
-src/r4f_bringup
 src/turtlebot3_simulations
+
